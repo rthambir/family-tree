@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "familytree",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authfamilytree80a5b2a5",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2023-03-27T20:40:27.906Z"
+}

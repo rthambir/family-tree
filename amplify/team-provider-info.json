@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-familytree-dev-135512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::502812257613:role/amplify-familytree-dev-135512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::502812257613:role/amplify-familytree-dev-135512-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-familytree-dev-135512-deployment",
+      "UnauthRoleName": "amplify-familytree-dev-135512-unauthRole",
+      "StackName": "amplify-familytree-dev-135512",
+      "StackId": "arn:aws:cloudformation:us-east-2:502812257613:stack/amplify-familytree-dev-135512/864137e0-ccc8-11ed-aef6-0641b9c64bcf",
+      "AmplifyAppId": "d2bh87ss33a8j5"
+    },
+    "categories": {
+      "auth": {
+        "familytree80a5b2a5": {}
+      },
+      "function": {
+        "familytree80a5b2a5CustomMessage": {
+          "REDIRECTURL": "",
+          "EMAILSUBJECT": "",
+          "EMAILMESSAGE": ""
+        }
+      }
+    }
+  }
+}
